@@ -1,6 +1,6 @@
 {
   "name": "devorapartners-modern",
-  "pages_build_output_dir": "./dist",
+  "pages_build_output_dir": ".vercel/output/static",
   "compatibility_date": "2025-09-27",
   "compatibility_flags": ["nodejs_compat"]
 }
